@@ -12,6 +12,7 @@
 #include <opencv2/features2d.hpp>
 #include <opencv2/xfeatures2d.hpp>
 #include <opencv2/xfeatures2d/nonfree.hpp>
+#include <boost/circular_buffer.hpp>
 
 #include "dataStructures.h"
 #include "matching2D.hpp"
@@ -23,7 +24,21 @@ int main(int argc, const char *argv[])
 {
 
     /* INIT VARIABLES AND DATA STRUCTURES */
-
+    string detectorType;
+    while(true)
+    {
+        cout<<"Enter Detector name (SHITOMASI, HARRIS, FAST, BRISK, ORB, AKAZE, SIFT):\t";
+        cin>>detectorType;
+        if(detectorType.compare("SHITOMASI")==0||detectorType.compare("HARRIS")==0||detectorType.compare("FAST")==0
+        ||detectorType.compare("BRISK")==0||detectorType.compare("ORB")==0||detectorType.compare("AKAZE")==0||detectorType.compare("SIFT")==0)
+        {
+            break;
+        }
+        else
+        {
+            cout<<"Unknow detector!";
+        }
+    }
     // data location
     string dataPath = "../";
 
@@ -37,7 +52,9 @@ int main(int argc, const char *argv[])
 
     // misc
     int dataBufferSize = 2;       // no. of images which are held in memory (ring buffer) at the same time
-    vector<DataFrame> dataBuffer; // list of data frames which are held in memory at the same time
+    // vector<DataFrame> dataBuffer; // list of data frames which are held in memory at the same time
+    boost::circular_buffer<DataFrame> dataBuffer(dataBufferSize);
+    
     bool bVis = false;            // visualize results
 
     /* MAIN LOOP OVER ALL IMAGES */
@@ -71,7 +88,7 @@ int main(int argc, const char *argv[])
 
         // extract 2D keypoints from current image
         vector<cv::KeyPoint> keypoints; // create empty feature list for current image
-        string detectorType = "SHITOMASI";
+        // string detectorType = "FAST";
 
         //// STUDENT ASSIGNMENT
         //// TASK MP.2 -> add the following keypoint detectors in file matching2D.cpp and enable string-based selection based on detectorType
@@ -81,9 +98,13 @@ int main(int argc, const char *argv[])
         {
             detKeypointsShiTomasi(keypoints, imgGray, false);
         }
-        else
+        else if(detectorType.compare("HARRIS") == 0)
         {
-            //...
+            detKeypointsHarris(keypoints, imgGray, false);
+        }
+        else 
+        {
+            detKeypointsModern(keypoints, imgGray, detectorType, false);
         }
         //// EOF STUDENT ASSIGNMENT
 
@@ -95,7 +116,14 @@ int main(int argc, const char *argv[])
         cv::Rect vehicleRect(535, 180, 180, 150);
         if (bFocusOnVehicle)
         {
-            // ...
+            for(auto itr = keypoints.end() - 1; itr >= keypoints.begin(); itr--)
+            {
+                if(((*itr).pt.x<vehicleRect.x || (*itr).pt.x>(vehicleRect.x + vehicleRect.width))
+                     || ((*itr).pt.y<vehicleRect.y || (*itr).pt.y>(vehicleRect.y + vehicleRect.height)))
+                    {
+                        keypoints.erase(itr);
+                    }
+            }
         }
 
         //// EOF STUDENT ASSIGNMENT
@@ -142,7 +170,7 @@ int main(int argc, const char *argv[])
             vector<cv::DMatch> matches;
             string matcherType = "MAT_BF";        // MAT_BF, MAT_FLANN
             string descriptorType = "DES_BINARY"; // DES_BINARY, DES_HOG
-            string selectorType = "SEL_NN";       // SEL_NN, SEL_KNN
+            string selectorType = "SEL_KNN";       // SEL_NN, SEL_KNN
 
             //// STUDENT ASSIGNMENT
             //// TASK MP.5 -> add FLANN matching in file matching2D.cpp
