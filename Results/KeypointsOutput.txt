@@ -1,0 +1,621 @@
+Detector Type = SHITOMASI
+Image 1:
+Number of Keypoints = 127
+Image 2:
+Number of Keypoints = 120
+Image 3:
+Number of Keypoints = 123
+Image 4:
+Number of Keypoints = 120
+Image 5:
+Number of Keypoints = 120
+Image 6:
+Number of Keypoints = 115
+Image 7:
+Number of Keypoints = 114
+Image 8:
+Number of Keypoints = 125
+Image 9:
+Number of Keypoints = 112
+Image 10:
+Number of Keypoints = 113
+
+
+Detector Type = SHITOMASI
+Image 1:
+Number of Keypoints = 127
+Image 2:
+Number of Keypoints = 120
+Image 3:
+Number of Keypoints = 123
+Image 4:
+Number of Keypoints = 120
+Image 5:
+Number of Keypoints = 120
+Image 6:
+Number of Keypoints = 115
+Image 7:
+Number of Keypoints = 114
+Image 8:
+Number of Keypoints = 125
+Image 9:
+Number of Keypoints = 112
+Image 10:
+Number of Keypoints = 113
+
+
+Detector Type = SHITOMASI
+Image 1:
+Number of Keypoints = 127
+Image 2:
+Number of Keypoints = 120
+Image 3:
+Number of Keypoints = 123
+Image 4:
+Number of Keypoints = 120
+Image 5:
+Number of Keypoints = 120
+Image 6:
+Number of Keypoints = 115
+Image 7:
+Number of Keypoints = 114
+Image 8:
+Number of Keypoints = 125
+Image 9:
+Number of Keypoints = 112
+Image 10:
+Number of Keypoints = 113
+
+
+Detector Type = SHITOMASI
+Image 1:
+Number of Keypoints = 127
+Image 2:
+Number of Keypoints = 120
+Image 3:
+Number of Keypoints = 123
+Image 4:
+Number of Keypoints = 120
+Image 5:
+Number of Keypoints = 120
+Image 6:
+Number of Keypoints = 115
+Image 7:
+Number of Keypoints = 114
+Image 8:
+Number of Keypoints = 125
+Image 9:
+Number of Keypoints = 112
+Image 10:
+Number of Keypoints = 113
+
+
+Detector Type = HARRIS
+Image 1:
+Number of Keypoints = 535
+Image 2:
+Number of Keypoints = 467
+Image 3:
+Number of Keypoints = 952
+Image 4:
+Number of Keypoints = 978
+Image 5:
+Number of Keypoints = 26415
+Image 6:
+Number of Keypoints = 1631
+Image 7:
+Number of Keypoints = 758
+Image 8:
+Number of Keypoints = 26741
+Image 9:
+Number of Keypoints = 646
+Image 10:
+Number of Keypoints = 479
+
+
+Detector Type = HARRIS
+Image 1:
+Number of Keypoints = 535
+Image 2:
+Number of Keypoints = 467
+Image 3:
+Number of Keypoints = 952
+Image 4:
+Number of Keypoints = 978
+Image 5:
+Number of Keypoints = 26415
+Image 6:
+Number of Keypoints = 1631
+Image 7:
+Number of Keypoints = 758
+Image 8:
+Number of Keypoints = 26741
+Image 9:
+Number of Keypoints = 646
+Image 10:
+Number of Keypoints = 479
+
+
+Detector Type = HARRIS
+Image 1:
+Number of Keypoints = 535
+Image 2:
+Number of Keypoints = 467
+Image 3:
+Number of Keypoints = 952
+Image 4:
+Number of Keypoints = 978
+Image 5:
+Number of Keypoints = 26415
+Image 6:
+Number of Keypoints = 1631
+Image 7:
+Number of Keypoints = 758
+Image 8:
+Number of Keypoints = 26741
+Image 9:
+Number of Keypoints = 646
+Image 10:
+Number of Keypoints = 479
+
+
+Detector Type = HARRIS
+Image 1:
+Number of Keypoints = 535
+Image 2:
+Number of Keypoints = 467
+Image 3:
+Number of Keypoints = 952
+Image 4:
+Number of Keypoints = 978
+Image 5:
+Number of Keypoints = 26415
+Image 6:
+Number of Keypoints = 1631
+Image 7:
+Number of Keypoints = 758
+Image 8:
+Number of Keypoints = 26741
+Image 9:
+Number of Keypoints = 646
+Image 10:
+Number of Keypoints = 479
+
+
+Detector Type = FAST
+Image 1:
+Number of Keypoints = 420
+Image 2:
+Number of Keypoints = 431
+Image 3:
+Number of Keypoints = 408
+Image 4:
+Number of Keypoints = 430
+Image 5:
+Number of Keypoints = 389
+Image 6:
+Number of Keypoints = 417
+Image 7:
+Number of Keypoints = 422
+Image 8:
+Number of Keypoints = 413
+Image 9:
+Number of Keypoints = 401
+Image 10:
+Number of Keypoints = 405
+
+
+Detector Type = FAST
+Image 1:
+Number of Keypoints = 420
+Image 2:
+Number of Keypoints = 431
+Image 3:
+Number of Keypoints = 408
+Image 4:
+Number of Keypoints = 430
+Image 5:
+Number of Keypoints = 389
+Image 6:
+Number of Keypoints = 417
+Image 7:
+Number of Keypoints = 422
+Image 8:
+Number of Keypoints = 413
+Image 9:
+Number of Keypoints = 401
+Image 10:
+Number of Keypoints = 405
+
+
+Detector Type = FAST
+Image 1:
+Number of Keypoints = 420
+Image 2:
+Number of Keypoints = 431
+Image 3:
+Number of Keypoints = 408
+Image 4:
+Number of Keypoints = 430
+Image 5:
+Number of Keypoints = 389
+Image 6:
+Number of Keypoints = 417
+Image 7:
+Number of Keypoints = 422
+Image 8:
+Number of Keypoints = 413
+Image 9:
+Number of Keypoints = 401
+Image 10:
+Number of Keypoints = 405
+
+
+Detector Type = FAST
+Image 1:
+Number of Keypoints = 420
+Image 2:
+Number of Keypoints = 431
+Image 3:
+Number of Keypoints = 408
+Image 4:
+Number of Keypoints = 430
+Image 5:
+Number of Keypoints = 389
+Image 6:
+Number of Keypoints = 417
+Image 7:
+Number of Keypoints = 422
+Image 8:
+Number of Keypoints = 413
+Image 9:
+Number of Keypoints = 401
+Image 10:
+Number of Keypoints = 405
+
+
+Detector Type = BRISK
+Image 1:
+Number of Keypoints = 254
+Image 2:
+Number of Keypoints = 274
+Image 3:
+Number of Keypoints = 276
+Image 4:
+Number of Keypoints = 275
+Image 5:
+Number of Keypoints = 293
+Image 6:
+Number of Keypoints = 275
+Image 7:
+Number of Keypoints = 289
+Image 8:
+Number of Keypoints = 268
+Image 9:
+Number of Keypoints = 260
+Image 10:
+Number of Keypoints = 250
+
+
+Detector Type = BRISK
+Image 1:
+Number of Keypoints = 254
+Image 2:
+Number of Keypoints = 274
+Image 3:
+Number of Keypoints = 276
+Image 4:
+Number of Keypoints = 275
+Image 5:
+Number of Keypoints = 293
+Image 6:
+Number of Keypoints = 275
+Image 7:
+Number of Keypoints = 289
+Image 8:
+Number of Keypoints = 268
+Image 9:
+Number of Keypoints = 260
+Image 10:
+Number of Keypoints = 250
+
+
+Detector Type = BRISK
+Image 1:
+Number of Keypoints = 254
+Image 2:
+Number of Keypoints = 274
+Image 3:
+Number of Keypoints = 276
+Image 4:
+Number of Keypoints = 275
+Image 5:
+Number of Keypoints = 293
+Image 6:
+Number of Keypoints = 275
+Image 7:
+Number of Keypoints = 289
+Image 8:
+Number of Keypoints = 268
+Image 9:
+Number of Keypoints = 260
+Image 10:
+Number of Keypoints = 250
+
+
+Detector Type = BRISK
+Image 1:
+Number of Keypoints = 254
+Image 2:
+Number of Keypoints = 274
+Image 3:
+Number of Keypoints = 276
+Image 4:
+Number of Keypoints = 275
+Image 5:
+Number of Keypoints = 293
+Image 6:
+Number of Keypoints = 275
+Image 7:
+Number of Keypoints = 289
+Image 8:
+Number of Keypoints = 268
+Image 9:
+Number of Keypoints = 260
+Image 10:
+Number of Keypoints = 250
+
+
+Detector Type = ORB
+Image 1:
+Number of Keypoints = 91
+Image 2:
+Number of Keypoints = 102
+Image 3:
+Number of Keypoints = 106
+Image 4:
+Number of Keypoints = 113
+Image 5:
+Number of Keypoints = 109
+Image 6:
+Number of Keypoints = 124
+Image 7:
+Number of Keypoints = 129
+Image 8:
+Number of Keypoints = 127
+Image 9:
+Number of Keypoints = 124
+Image 10:
+Number of Keypoints = 125
+
+
+Detector Type = ORB
+Image 1:
+Number of Keypoints = 91
+Image 2:
+Number of Keypoints = 102
+Image 3:
+Number of Keypoints = 106
+Image 4:
+Number of Keypoints = 113
+Image 5:
+Number of Keypoints = 109
+Image 6:
+Number of Keypoints = 124
+Image 7:
+Number of Keypoints = 129
+Image 8:
+Number of Keypoints = 127
+Image 9:
+Number of Keypoints = 124
+Image 10:
+Number of Keypoints = 125
+
+
+Detector Type = ORB
+Image 1:
+Number of Keypoints = 91
+Image 2:
+Number of Keypoints = 102
+Image 3:
+Number of Keypoints = 106
+Image 4:
+Number of Keypoints = 113
+Image 5:
+Number of Keypoints = 109
+Image 6:
+Number of Keypoints = 124
+Image 7:
+Number of Keypoints = 129
+Image 8:
+Number of Keypoints = 127
+Image 9:
+Number of Keypoints = 124
+Image 10:
+Number of Keypoints = 125
+
+
+Detector Type = ORB
+Image 1:
+Number of Keypoints = 91
+Image 2:
+Number of Keypoints = 102
+Image 3:
+Number of Keypoints = 106
+Image 4:
+Number of Keypoints = 113
+Image 5:
+Number of Keypoints = 109
+Image 6:
+Number of Keypoints = 124
+Image 7:
+Number of Keypoints = 129
+Image 8:
+Number of Keypoints = 127
+Image 9:
+Number of Keypoints = 124
+Image 10:
+Number of Keypoints = 125
+
+
+Detector Type = AKAZE
+Image 1:
+Number of Keypoints = 162
+Image 2:
+Number of Keypoints = 157
+Image 3:
+Number of Keypoints = 159
+Image 4:
+Number of Keypoints = 154
+Image 5:
+Number of Keypoints = 162
+Image 6:
+Number of Keypoints = 163
+Image 7:
+Number of Keypoints = 173
+Image 8:
+Number of Keypoints = 175
+Image 9:
+Number of Keypoints = 175
+Image 10:
+Number of Keypoints = 175
+
+
+Detector Type = AKAZE
+Image 1:
+Number of Keypoints = 162
+Image 2:
+Number of Keypoints = 157
+Image 3:
+Number of Keypoints = 159
+Image 4:
+Number of Keypoints = 154
+Image 5:
+Number of Keypoints = 162
+Image 6:
+Number of Keypoints = 163
+Image 7:
+Number of Keypoints = 173
+Image 8:
+Number of Keypoints = 175
+Image 9:
+Number of Keypoints = 175
+Image 10:
+Number of Keypoints = 175
+
+
+Detector Type = AKAZE
+Image 1:
+Number of Keypoints = 162
+Image 2:
+Number of Keypoints = 157
+Image 3:
+Number of Keypoints = 159
+Image 4:
+Number of Keypoints = 154
+Image 5:
+Number of Keypoints = 162
+Image 6:
+Number of Keypoints = 163
+Image 7:
+Number of Keypoints = 173
+Image 8:
+Number of Keypoints = 175
+Image 9:
+Number of Keypoints = 175
+Image 10:
+Number of Keypoints = 175
+
+
+Detector Type = AKAZE
+Image 1:
+Number of Keypoints = 162
+Image 2:
+Number of Keypoints = 157
+Image 3:
+Number of Keypoints = 159
+Image 4:
+Number of Keypoints = 154
+Image 5:
+Number of Keypoints = 162
+Image 6:
+Number of Keypoints = 163
+Image 7:
+Number of Keypoints = 173
+Image 8:
+Number of Keypoints = 175
+Image 9:
+Number of Keypoints = 175
+Image 10:
+Number of Keypoints = 175
+
+
+Detector Type = SIFT
+Image 1:
+Number of Keypoints = 137
+Image 2:
+Number of Keypoints = 131
+Image 3:
+Number of Keypoints = 121
+Image 4:
+Number of Keypoints = 135
+Image 5:
+Number of Keypoints = 134
+Image 6:
+Number of Keypoints = 139
+Image 7:
+Number of Keypoints = 136
+Image 8:
+Number of Keypoints = 147
+Image 9:
+Number of Keypoints = 156
+Image 10:
+Number of Keypoints = 135
+
+
+Detector Type = SIFT
+Image 1:
+Number of Keypoints = 137
+Image 2:
+Number of Keypoints = 131
+Image 3:
+Number of Keypoints = 121
+Image 4:
+Number of Keypoints = 135
+Image 5:
+Number of Keypoints = 134
+Image 6:
+Number of Keypoints = 139
+Image 7:
+Number of Keypoints = 136
+Image 8:
+Number of Keypoints = 147
+Image 9:
+Number of Keypoints = 156
+Image 10:
+Number of Keypoints = 135
+
+
+Detector Type = SIFT
+Image 1:
+Number of Keypoints = 137
+Image 2:
+Number of Keypoints = 131
+Image 3:
+Number of Keypoints = 121
+Image 4:
+Number of Keypoints = 135
+Image 5:
+Number of Keypoints = 134
+Image 6:
+Number of Keypoints = 139
+Image 7:
+Number of Keypoints = 136
+Image 8:
+Number of Keypoints = 147
+Image 9:
+Number of Keypoints = 156
+Image 10:
+Number of Keypoints = 135
+
+

@@ -1,0 +1,594 @@
+Detector Type = SHITOMASI
+Descriptor Type = BRISK
+Image 2:
+Number of Matches = 127
+Image 3:
+Number of Matches = 120
+Image 4:
+Number of Matches = 123
+Image 5:
+Number of Matches = 120
+Image 6:
+Number of Matches = 120
+Image 7:
+Number of Matches = 115
+Image 8:
+Number of Matches = 114
+Image 9:
+Number of Matches = 125
+Image 10:
+Number of Matches = 112
+
+
+Detector Type = SHITOMASI
+Descriptor Type = BRIEF
+Image 2:
+Number of Matches = 127
+Image 3:
+Number of Matches = 120
+Image 4:
+Number of Matches = 123
+Image 5:
+Number of Matches = 120
+Image 6:
+Number of Matches = 120
+Image 7:
+Number of Matches = 115
+Image 8:
+Number of Matches = 114
+Image 9:
+Number of Matches = 125
+Image 10:
+Number of Matches = 112
+
+
+Detector Type = SHITOMASI
+Descriptor Type = ORB
+Image 2:
+Number of Matches = 127
+Image 3:
+Number of Matches = 120
+Image 4:
+Number of Matches = 123
+Image 5:
+Number of Matches = 120
+Image 6:
+Number of Matches = 120
+Image 7:
+Number of Matches = 115
+Image 8:
+Number of Matches = 114
+Image 9:
+Number of Matches = 125
+Image 10:
+Number of Matches = 112
+
+
+Detector Type = SHITOMASI
+Descriptor Type = FREAK
+Image 2:
+Number of Matches = 127
+Image 3:
+Number of Matches = 120
+Image 4:
+Number of Matches = 123
+Image 5:
+Number of Matches = 120
+Image 6:
+Number of Matches = 120
+Image 7:
+Number of Matches = 115
+Image 8:
+Number of Matches = 114
+Image 9:
+Number of Matches = 125
+Image 10:
+Number of Matches = 112
+
+
+Detector Type = HARRIS
+Descriptor Type = BRISK
+Image 2:
+Number of Matches = 535
+Image 3:
+Number of Matches = 467
+Image 4:
+Number of Matches = 952
+Image 5:
+Number of Matches = 978
+Image 6:
+Number of Matches = 26415
+Image 7:
+Number of Matches = 1631
+Image 8:
+Number of Matches = 758
+Image 9:
+Number of Matches = 26741
+Image 10:
+Number of Matches = 646
+
+
+Detector Type = HARRIS
+Descriptor Type = BRIEF
+Image 2:
+Number of Matches = 535
+Image 3:
+Number of Matches = 467
+Image 4:
+Number of Matches = 952
+Image 5:
+Number of Matches = 978
+Image 6:
+Number of Matches = 26415
+Image 7:
+Number of Matches = 1631
+Image 8:
+Number of Matches = 758
+Image 9:
+Number of Matches = 26741
+Image 10:
+Number of Matches = 646
+
+
+Detector Type = HARRIS
+Descriptor Type = ORB
+Image 2:
+Number of Matches = 535
+Image 3:
+Number of Matches = 467
+Image 4:
+Number of Matches = 952
+Image 5:
+Number of Matches = 978
+Image 6:
+Number of Matches = 26415
+Image 7:
+Number of Matches = 1631
+Image 8:
+Number of Matches = 758
+Image 9:
+Number of Matches = 26741
+Image 10:
+Number of Matches = 646
+
+
+Detector Type = HARRIS
+Descriptor Type = FREAK
+Image 2:
+Number of Matches = 535
+Image 3:
+Number of Matches = 467
+Image 4:
+Number of Matches = 952
+Image 5:
+Number of Matches = 978
+Image 6:
+Number of Matches = 26415
+Image 7:
+Number of Matches = 1631
+Image 8:
+Number of Matches = 758
+Image 9:
+Number of Matches = 26741
+Image 10:
+Number of Matches = 646
+
+
+Detector Type = FAST
+Descriptor Type = BRISK
+Image 2:
+Number of Matches = 420
+Image 3:
+Number of Matches = 431
+Image 4:
+Number of Matches = 408
+Image 5:
+Number of Matches = 430
+Image 6:
+Number of Matches = 389
+Image 7:
+Number of Matches = 417
+Image 8:
+Number of Matches = 422
+Image 9:
+Number of Matches = 413
+Image 10:
+Number of Matches = 401
+
+
+Detector Type = FAST
+Descriptor Type = BRIEF
+Image 2:
+Number of Matches = 420
+Image 3:
+Number of Matches = 431
+Image 4:
+Number of Matches = 408
+Image 5:
+Number of Matches = 430
+Image 6:
+Number of Matches = 389
+Image 7:
+Number of Matches = 417
+Image 8:
+Number of Matches = 422
+Image 9:
+Number of Matches = 413
+Image 10:
+Number of Matches = 401
+
+
+Detector Type = FAST
+Descriptor Type = ORB
+Image 2:
+Number of Matches = 420
+Image 3:
+Number of Matches = 431
+Image 4:
+Number of Matches = 408
+Image 5:
+Number of Matches = 430
+Image 6:
+Number of Matches = 389
+Image 7:
+Number of Matches = 417
+Image 8:
+Number of Matches = 422
+Image 9:
+Number of Matches = 413
+Image 10:
+Number of Matches = 401
+
+
+Detector Type = FAST
+Descriptor Type = FREAK
+Image 2:
+Number of Matches = 420
+Image 3:
+Number of Matches = 431
+Image 4:
+Number of Matches = 408
+Image 5:
+Number of Matches = 430
+Image 6:
+Number of Matches = 389
+Image 7:
+Number of Matches = 417
+Image 8:
+Number of Matches = 422
+Image 9:
+Number of Matches = 413
+Image 10:
+Number of Matches = 401
+
+
+Detector Type = BRISK
+Descriptor Type = BRISK
+Image 2:
+Number of Matches = 254
+Image 3:
+Number of Matches = 274
+Image 4:
+Number of Matches = 276
+Image 5:
+Number of Matches = 275
+Image 6:
+Number of Matches = 293
+Image 7:
+Number of Matches = 275
+Image 8:
+Number of Matches = 289
+Image 9:
+Number of Matches = 268
+Image 10:
+Number of Matches = 260
+
+
+Detector Type = BRISK
+Descriptor Type = BRIEF
+Image 2:
+Number of Matches = 254
+Image 3:
+Number of Matches = 274
+Image 4:
+Number of Matches = 276
+Image 5:
+Number of Matches = 275
+Image 6:
+Number of Matches = 293
+Image 7:
+Number of Matches = 275
+Image 8:
+Number of Matches = 289
+Image 9:
+Number of Matches = 268
+Image 10:
+Number of Matches = 260
+
+
+Detector Type = BRISK
+Descriptor Type = ORB
+Image 2:
+Number of Matches = 254
+Image 3:
+Number of Matches = 274
+Image 4:
+Number of Matches = 276
+Image 5:
+Number of Matches = 275
+Image 6:
+Number of Matches = 293
+Image 7:
+Number of Matches = 275
+Image 8:
+Number of Matches = 289
+Image 9:
+Number of Matches = 268
+Image 10:
+Number of Matches = 260
+
+
+Detector Type = BRISK
+Descriptor Type = FREAK
+Image 2:
+Number of Matches = 234
+Image 3:
+Number of Matches = 252
+Image 4:
+Number of Matches = 257
+Image 5:
+Number of Matches = 262
+Image 6:
+Number of Matches = 270
+Image 7:
+Number of Matches = 252
+Image 8:
+Number of Matches = 269
+Image 9:
+Number of Matches = 251
+Image 10:
+Number of Matches = 237
+
+
+Detector Type = ORB
+Descriptor Type = BRISK
+Image 2:
+Number of Matches = 82
+Image 3:
+Number of Matches = 93
+Image 4:
+Number of Matches = 95
+Image 5:
+Number of Matches = 103
+Image 6:
+Number of Matches = 101
+Image 7:
+Number of Matches = 115
+Image 8:
+Number of Matches = 119
+Image 9:
+Number of Matches = 118
+Image 10:
+Number of Matches = 116
+
+
+Detector Type = ORB
+Descriptor Type = BRIEF
+Image 2:
+Number of Matches = 91
+Image 3:
+Number of Matches = 102
+Image 4:
+Number of Matches = 106
+Image 5:
+Number of Matches = 113
+Image 6:
+Number of Matches = 109
+Image 7:
+Number of Matches = 124
+Image 8:
+Number of Matches = 129
+Image 9:
+Number of Matches = 127
+Image 10:
+Number of Matches = 124
+
+
+Detector Type = ORB
+Descriptor Type = ORB
+Image 2:
+Number of Matches = 91
+Image 3:
+Number of Matches = 102
+Image 4:
+Number of Matches = 106
+Image 5:
+Number of Matches = 113
+Image 6:
+Number of Matches = 109
+Image 7:
+Number of Matches = 124
+Image 8:
+Number of Matches = 129
+Image 9:
+Number of Matches = 127
+Image 10:
+Number of Matches = 124
+
+
+Detector Type = ORB
+Descriptor Type = FREAK
+Image 2:
+Number of Matches = 45
+Image 3:
+Number of Matches = 53
+Image 4:
+Number of Matches = 56
+Image 5:
+Number of Matches = 65
+Image 6:
+Number of Matches = 55
+Image 7:
+Number of Matches = 64
+Image 8:
+Number of Matches = 66
+Image 9:
+Number of Matches = 70
+Image 10:
+Number of Matches = 71
+
+
+Detector Type = AKAZE
+Descriptor Type = BRISK
+Image 2:
+Number of Matches = 162
+Image 3:
+Number of Matches = 157
+Image 4:
+Number of Matches = 159
+Image 5:
+Number of Matches = 154
+Image 6:
+Number of Matches = 162
+Image 7:
+Number of Matches = 163
+Image 8:
+Number of Matches = 173
+Image 9:
+Number of Matches = 175
+Image 10:
+Number of Matches = 175
+
+
+Detector Type = AKAZE
+Descriptor Type = BRIEF
+Image 2:
+Number of Matches = 162
+Image 3:
+Number of Matches = 157
+Image 4:
+Number of Matches = 159
+Image 5:
+Number of Matches = 154
+Image 6:
+Number of Matches = 162
+Image 7:
+Number of Matches = 163
+Image 8:
+Number of Matches = 173
+Image 9:
+Number of Matches = 175
+Image 10:
+Number of Matches = 175
+
+
+Detector Type = AKAZE
+Descriptor Type = ORB
+Image 2:
+Number of Matches = 162
+Image 3:
+Number of Matches = 157
+Image 4:
+Number of Matches = 159
+Image 5:
+Number of Matches = 154
+Image 6:
+Number of Matches = 162
+Image 7:
+Number of Matches = 163
+Image 8:
+Number of Matches = 173
+Image 9:
+Number of Matches = 175
+Image 10:
+Number of Matches = 175
+
+
+Detector Type = AKAZE
+Descriptor Type = FREAK
+Image 2:
+Number of Matches = 162
+Image 3:
+Number of Matches = 157
+Image 4:
+Number of Matches = 159
+Image 5:
+Number of Matches = 154
+Image 6:
+Number of Matches = 162
+Image 7:
+Number of Matches = 163
+Image 8:
+Number of Matches = 173
+Image 9:
+Number of Matches = 175
+Image 10:
+Number of Matches = 175
+
+
+Detector Type = SIFT
+Descriptor Type = BRISK
+Image 2:
+Number of Matches = 136
+Image 3:
+Number of Matches = 131
+Image 4:
+Number of Matches = 121
+Image 5:
+Number of Matches = 135
+Image 6:
+Number of Matches = 134
+Image 7:
+Number of Matches = 139
+Image 8:
+Number of Matches = 136
+Image 9:
+Number of Matches = 147
+Image 10:
+Number of Matches = 156
+
+
+Detector Type = SIFT
+Descriptor Type = BRIEF
+Image 2:
+Number of Matches = 137
+Image 3:
+Number of Matches = 131
+Image 4:
+Number of Matches = 121
+Image 5:
+Number of Matches = 135
+Image 6:
+Number of Matches = 134
+Image 7:
+Number of Matches = 139
+Image 8:
+Number of Matches = 136
+Image 9:
+Number of Matches = 147
+Image 10:
+Number of Matches = 156
+
+
+Detector Type = SIFT
+Descriptor Type = FREAK
+Image 2:
+Number of Matches = 136
+Image 3:
+Number of Matches = 130
+Image 4:
+Number of Matches = 120
+Image 5:
+Number of Matches = 134
+Image 6:
+Number of Matches = 133
+Image 7:
+Number of Matches = 138
+Image 8:
+Number of Matches = 134
+Image 9:
+Number of Matches = 146
+Image 10:
+Number of Matches = 155
+
+
